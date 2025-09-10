@@ -8,13 +8,13 @@ These forms do not change based on the subject.
 
 | Form | -ar (hablar) | -er (comer) | -ir (vivir) |
 | :--- | :--- | :--- | :--- |
-| **Infinitive** | habl**ar** | com**er** | viv**ir** |
-| **Gerund** | habl**ando** | com**iendo** | viv**iendo** |
-| **Past Participle** | habl**ado** | com**ido** | viv**ido** |
+| **Infinitive**（v.最普遍形式） | habl**ar** | com**er** | viv**ir** |
+| **Gerund**（进行） | habl**ando** | com**iendo** | viv**iendo** |
+| **Past Participle**（过去） | habl**ado** | com**ido** | viv**ido** |
 
 ---
 
-## Indicative Mood (Modo Indicativo)
+## Indicative Mood (Modo Indicativo)陈述情绪
 
 Used to talk about objective facts and actions.
 
@@ -85,7 +85,7 @@ Used to talk about objective facts and actions.
 
 ---
 
-## Subjunctive Mood (Modo Subjuntivo)
+## Subjunctive Mood (Modo Subjuntivo)虚拟
 
 Used to express desires, doubts, wishes, emotions, and other non-factual situations.
 
@@ -115,7 +115,7 @@ Used to express desires, doubts, wishes, emotions, and other non-factual situati
 
 ---
 
-## Imperative Mood (Modo Imperativo)
+## Imperative Mood (Modo Imperativo)命令
 
 Used to give commands.
 
