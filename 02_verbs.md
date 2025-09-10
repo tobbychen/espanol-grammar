@@ -1,4 +1,3 @@
-
 # Part 2: Verbs
 
 ## Regular Verbs (Present Tense)
@@ -60,3 +59,7 @@ Irregular verbs do not follow the same pattern as regular verbs. Here are a few 
 * *Tú **estás** en la biblioteca.* (You are in the library.) - Location
 * *Él **es** alto.* (He is tall.) - Physical attribute
 * *Ella **está** cansada.* (She is tired.) - Condition
+
+---
+
+For a complete summary of all regular verb endings, see the [Regular Verb Conjugation Reference](./02_verbs_conjugation_reference.md).

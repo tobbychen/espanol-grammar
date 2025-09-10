@@ -67,7 +67,7 @@ The imperfect tense is used to describe ongoing or habitual actions in the past,
 * **-ías** (tú): *comías* (you used to eat), *vivías* (you used to live)
 * **-ía** (él/ella/usted): *comía* (he/she/you used to eat), *vivía* (he/she/you used to live)
 * **-íamos** (nosotros/as): *comíamos* (we used to eat), *vivíamos* (we used to live)
-* **-íais** (vosotros/as): *comíais* (you all used to eat), *vivíais* (you all used to live)
+* **-íais** (vosotros/as): *comíais* (you all used to eat), *vivíais* (you all lived)
 * **-ían** (ellos/ellas/ustedes): *comían* (they used to eat), *vivían* (they used to live)
 
 ### Irregular Verbs (Imperfect)
@@ -151,3 +151,7 @@ The imperative is used for giving direct orders or requests.
 Uses the *tú* form of the present subjunctive.
 
 * *¡No **hables**!* (Don't speak!), *¡No **comas**!* (Don't eat!)
+
+---
+
+For a complete summary of all regular verb endings, see the [Regular Verb Conjugation Reference](./02_verbs_conjugation_reference.md).
