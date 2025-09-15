@@ -83,6 +83,49 @@ These adjectives indicate ownership and agree in number with the noun they modif
   * *Es **el libro más interesante de** la biblioteca.* (It's **the most interesting book in** the library.)
   * *Ella es **la menos ruidosa de** la clase.* (She is **the least noisy in** the class.)
 
+### The Origin of Adjectives
+
+Adjectives in Spanish come from several different sources, including nouns, verbs, and even other adjectives. Recognizing common patterns is a great way to build vocabulary.
+
+#### 1. From Nouns
+
+*   **-oso / -osa** (means "full of"):
+    *   `fama` (fame) → `famoso` (famous)
+    *   `peligro` (danger) → `peligroso` (dangerous)
+
+*   **-ico / -ica** (forms adjectives of relation):
+    *   `historia` (history) → `histórico` (historic)
+
+*   **-al** (forms adjectives of relation):
+    *   `nación` (nation) → `nacional` (national)
+
+#### 2. From Verbs
+
+*   **-ado / -ido** (The Past Participle, means "that has been..."):
+    *   `cansar` (to tire) → `cansado` (tired)
+    *   `divertir` (to amuse) → `divertido` (fun, amusing)
+
+*   **-ante / -ente / -iente** (The Present Participle, means "that does..."):
+    *   `impresionar` (to impress) → `impresionante` (impressive)
+    *   `interesar` (to interest) → `interesante` (interesting)
+
+*   **-able / -ible** (means "capable of being..."):
+    *   `lavar` (to wash) → `lavable` (washable)
+    *   `creer` (to believe) → `creíble` (believable)
+
+#### 3. From Other Adjectives (Prefixes)
+
+New adjectives can be formed by adding prefixes (usually for negation).
+
+*   **in- / im- / i-** (means "not"):
+    *   `posible` → `imposible`
+    *   `legal` → `ilegal`
+
+#### 4. "Base" Adjectives
+
+Some of the most fundamental adjectives don't have a simpler root in modern Spanish.
+*   `bueno` (good), `malo` (bad), `grande` (big), `pequeño` (small)
+
 ## Adverbs
 
 Adverbs are words that modify verbs, adjectives, or other adverbs. Unlike adjectives, adverbs are **invariable**; they do not change for gender or number.

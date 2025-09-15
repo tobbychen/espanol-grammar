@@ -60,6 +60,69 @@ Irregular verbs do not follow the same pattern as regular verbs. Here are a few 
 * *Él **es** alto.* (He is tall.) - Physical attribute
 * *Ella **está** cansada.* (She is tired.) - Condition
 
+## Using the Infinitive as a Noun
+
+A unique feature of Spanish grammar is the ability to use the infinitive form of a verb as a noun. When used this way, the infinitive represents the *concept* or *idea* of the action.
+
+It most frequently acts as the subject of a sentence.
+
+**Key Rule:** When an infinitive is used as the subject, it is always treated as a **singular, masculine** noun.
+
+### How to Conjugate the Main Verb
+
+When an infinitive phrase is the subject, the main verb of the sentence is always conjugated in the **third-person singular**. This is because the infinitive subject is treated as a single concept, equivalent to "it" (`él`/`ella`).
+
+* `Viajar por el mundo **cuesta** mucho dinero.` (Traveling the world **costs** a lot of money.)
+* `Estudiar **mejora** tus oportunidades.` (Studying **improves** your opportunities.)
+
+### Examples
+
+* **Hacer** deporte **es bueno**. (Doing sports is good.)
+  * The subject is the action `Hacer deporte`. The main verb is `es` (third-person singular), and the adjective describing the action is `bueno` (masculine, singular).
+
+* **Fumar** es malo para la salud. (Smoking is bad for your health.)
+
+* **Ver** es creer. (Seeing is believing.)
+
+This is different from when a person is the subject and the verb is conjugated:
+
+* Yo **hago** deporte. (I do sports.)
+
+## Using the Past Participle as a Noun 类似动词被动形态做名词
+
+While the infinitive is used to represent the *action* of a verb as a noun, the **past participle** (`-ado`, `-ido` forms) can also be used as a noun.
+
+However, the meaning is different. A past participle used as a noun refers to the **person or thing that has received the action**.
+
+Since they function as nouns, they have gender and number and must agree with articles and other adjectives.
+
+### Examples
+
+* From **`herir`** (to wound):
+  * **`un herido`** / **`una herida`** (a wounded person, male/female)
+  * The adjective `herido` (wounded) becomes a noun.
+
+* From **`escribir`** (to write):
+  * **`un escrito`** (a written document)
+  * This refers to the result of the action of writing.
+
+* From **`prometer`** (to promise):
+  * **`lo prometido`** (that which was promised)
+  * There is a common saying: *Lo prometido es deuda.* (A promise is a debt.)
+
+* From **`casarse`** (to get married):
+  * **`un recién casado`** (a newlywed)
+
+### Contrast with the Infinitive
+
+Remember the key difference in meaning:
+
+* **Infinitive as Noun (The Action):**
+  * `Escribir toma tiempo.` (Writing takes time.)
+
+* **Participle as Noun (The Result):**
+  * `El escrito era muy largo.` (The written document was very long.)
+
 ---
 
 For a complete summary of all regular verb endings, see the [Regular Verb Conjugation Reference](./02_verbs_conjugation_reference.md).
