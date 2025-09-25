@@ -126,3 +126,67 @@ Remember the key difference in meaning:
 ---
 
 For a complete summary of all regular verb endings, see the [Regular Verb Conjugation Reference](./02_verbs_conjugation_reference.md).
+
+## Reflexive Verbs
+
+A reflexive verb is used when the subject of a sentence performs an action **on itself**. In English, this is like saying "I wash myself" or "He showers himself." In Spanish, this is much more common.
+
+You can identify a reflexive verb by its infinitive form, which always ends in **-se** (e.g., `ducharse`, `lavarse`).
+
+### 1. Reflexive Pronouns
+
+To use a reflexive verb, you need a reflexive pronoun that matches the subject:
+
+*   **yo** (I) -> **me**
+*   **tú** (you) -> **te**
+*   **él/ella/usted** (he/she/you) -> **se**
+*   **nosotros/as** (we) -> **nos**
+*   **vosotros/as** (you all) -> **os**
+*   **ellos/ellas/ustedes** (they/you all) -> **se**
+
+### 2. How to Conjugate Them
+
+1.  Find the pronoun that matches your subject (e.g., for "yo", use "me").
+2.  Place the pronoun **before** the conjugated verb.
+3.  Conjugate the verb as you normally would.
+
+**Example: `lavarse` (to wash oneself)**
+
+*   Yo **me lavo** las manos. (I wash my hands.)
+*   Tú **te lavas** la cara. (You wash your face.)
+*   Él **se lava**. (He washes himself.)
+*   Nosotros **nos lavamos**. (We wash ourselves.)
+*   Vosotros **os laváis**. (You all wash yourselves.)
+*   Ellos **se lavan**. (They wash themselves.)
+
+### 3. Common Reflexive Verbs
+
+Many reflexive verbs are related to daily routines, personal care, and feelings.
+
+*   **acostarse:** to go to bed
+*   **afeitarse:** to shave
+*   **bañarse:** to bathe oneself
+*   **despertarse:** to wake up
+*   **ducharse:** to shower oneself
+*   **irse:** to go away, to leave
+*   **levantarse:** to get up
+*   **llamarse:** to be called (My name is...)
+*   **maquillarse:** to put on makeup
+*   **peinarse:** to comb one's hair
+*   **ponerse:** to put on (clothing)
+*   **preocuparse:** to worry
+*   **quedarse:** to stay
+*   **sentarse:** to sit down
+*   **sentirse:** to feel (an emotion)
+*   **vestirse:** to get dressed
+
+### 4. Pronoun Placement with Two Verbs
+
+As we discussed, if you have two verbs together (like "going to do" or "is doing"), you have two options for placing the pronoun:
+
+1.  **Before the first (conjugated) verb:**
+    *   `Me voy a duchar.` (I am going to shower.)
+    *   `Te estás vistiendo.` (You are getting dressed.)
+2.  **Attached to the second verb (infinitive or gerund):**
+    *   `Voy a ducharme.`
+    *   `Estás vistiéndote.`

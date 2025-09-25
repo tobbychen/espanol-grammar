@@ -100,6 +100,43 @@ Used to express desires, doubts, wishes, emotions, and other non-factual situati
 | vosotros/as | -éis | -áis | -áis |
 | ellos/ellas/uds. | -en | -an | -an |
 
+### Formation Rules for the Present Subjunctive
+
+While the table above shows the endings, the following rules explain how to get the correct stem for all verbs, including irregulars.
+
+#### The Main Rule: "Yo - Drop - Swap"
+
+This three-step process works for the vast majority of verbs.
+
+1.  **Start with the `yo` form of the present indicative tense.** This step is crucial as it captures most stem changes and irregularities (e.g., `tener` -> `tengo`, `decir` -> `digo`).
+2.  **Drop the final `-o`** to get the subjunctive stem (e.g., `teng-`, `dig-`).
+3.  **Add the "opposite" endings** (i.e., `-ar` verb endings for `-er`/`-ir` verbs, and vice-versa), as shown in the table above.
+
+**Example with an irregular `yo` form (`conocer`):**
+1.  `yo` form is `conozco`.
+2.  Stem becomes `conozc-`.
+3.  Add endings: `conozca, conozcas, conozca, conozcamos, conozcáis, conozcan`.
+
+#### Special Case: Stem-Changing `-ir` Verbs
+
+For stem-changing `-ir` verbs, there is an additional vowel change in the `nosotros` and `vosotros` forms.
+
+*   **e -> i**: Verbs like `sentir` (e.g., `sienta`) change the `e` to an `i` in the first-person plural: `sintamos`.
+*   **o -> u**: Verbs like `dormir` (e.g., `duerma`) change the `o` to a `u` in the first-person plural: `durmamos`.
+
+#### Truly Irregular Verbs (Mnemonic: DISHES)
+
+A small number of common verbs do not follow the rule above and must be memorized.
+
+| Verb | Subjunctive Forms |
+| :--- | :--- |
+| **D**ar | `dé, des, dé, demos, deis, den` |
+| **I**r | `vaya, vayas, vaya, vayamos, vayáis, vayan` |
+| **S**er | `sea, seas, sea, seamos, seáis, sean` |
+| **H**aber | `haya, hayas, haya, hayamos, hayáis, hayan` |
+| **E**star | `esté, estés, esté, estemos, estéis, estén` |
+| **S**aber | `sepa, sepas, sepa, sepamos, sepáis, sepan` |
+
 ### Imperfect Subjunctive (Imperfecto de Subjuntivo)
 
 *Has two correct sets of endings (-ra or -se).*
