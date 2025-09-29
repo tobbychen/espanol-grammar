@@ -152,6 +152,39 @@ Uses the *tú* form of the present subjunctive.
 
 * *¡No **hables**!* (Don't speak!), *¡No **comas**!* (Don't eat!)
 
+## Object Pronoun Placement
+
+A key rule in Spanish is where to place object pronouns (like `me`, `te`, `lo`, `la`, `se`). The rule depends on the form of the verb.
+
+### Rule 1: Before a Conjugated Verb
+
+Place the pronoun **before** the verb when the verb is conjugated in a standard tense (present, preterite, imperfect, future, etc.). This applies to reflexive, direct, and indirect object pronouns.
+
+*   **Reflexive:** `Yo **me** levanto.` (I get up.)
+*   **Direct Object:** `Ella **lo** ve.` (She sees it.)
+*   **Indirect Object:** `**Le** doy el libro.` (I give the book to him/her.)
+*   **Incorrect:** `Yo levanto**me**.`
+
+### Rule 2: Attached to the Verb
+
+Attach the pronoun directly to the **end** of the verb in three specific cases:
+
+**1. Infinitives (-ar, -er, -ir)**
+*   `Voy a lavar**me**.` (I am going to wash myself.)
+*   `Quiero ver**lo**.` (I want to see it.)
+
+**2. Gerunds (-ando, -iendo)**
+*   `Estoy duchándo**me**.` (I am showering.)
+*   `Sigue hablándo**le**.` (Keep talking to him/her.)
+
+**3. Affirmative Commands (Positive Orders)**
+*   `¡Siénta**te**!` (Sit down!)
+*   `¡Dí**me**lo!` (Tell me it!)
+
+**Note:** For negative commands, the pronoun goes before the verb (following Rule 1), because the verb is in the subjunctive mood.
+*   `¡No **te** sientes!` (Don't sit down!)
+*   `¡No **me lo** digas!` (Don't tell me it!)
+
 ---
 
 For a complete summary of all regular verb endings, see the [Regular Verb Conjugation Reference](./02_verbs_conjugation_reference.md).
