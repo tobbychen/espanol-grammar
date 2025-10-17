@@ -2,7 +2,7 @@
 
 ## Original Article (Raw Text)
 
-Andrej Babiš es un hombre muy rico y el líder de un gran partido en Chequia. Su partido se llama ANO, que significa Sí en checo. Gana las elecciones en el país. Obtiene más votos que el antiguo primer ministro, Petr Fiala.
+Andrej Babiš **es** un hombre muy rico **y** el líder de un gran partido en Chequia. Su partido se llama ANO, que significa Sí en checo. Gana las elecciones en el país. Obtiene más votos que el antiguo primer ministro, Petr Fiala.
 
 Ahora Babiš busca otro partido que le ayude a formar un nuevo gobierno. No le gusta mucho la Unión Europea. No quiere enviar muchas armas a Ucrania. Quiere ayudar primero al pueblo checo.
 
