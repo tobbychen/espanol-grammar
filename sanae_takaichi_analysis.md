@@ -97,3 +97,13 @@ The text introduces Sanae Takaichi as a prominent female politician in Japan who
 | sobre | about |
 | su | her |
 | también | also |
+
+---
+
+## New Article Text
+
+Sanae Takaichi es la nueva líder del Partido Liberal Democrático de Japón. Pronto puede convertirse en la primera mujer primer ministro de Japón.
+
+Ha trabajado en política durante muchos años, y la gente la conoce como una persona fuerte y tradicional. Quiere ayudar a que su partido vuelva a ser popular, pero la gente en Japón no está contenta porque los precios están subiendo y hubo escándalos sobre el dinero en la política. Takaichi no apoya muchas ideas feministas y quiere mantener las antiguas reglas familiares.
+
+Otros países, como China y Corea del Sur, se preocupan por sus opiniones porque visitó lugares de guerra que son sensibles para ellos. Mucha gente quiere ver qué hará ahora.
