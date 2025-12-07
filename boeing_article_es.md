@@ -1,0 +1,3 @@
+Un juez estadounidense dice que Boeing no irá a juicio tras dos accidentes aéreos. Mueren 346 personas en los accidentes.
+
+El gobierno pide que se detenga el caso. El juez dice que esto no es bueno. La gente debe estar segura cuando vuela. Los accidentes ocurren porque una parte del avión no funciona bien. Boeing llega a un acuerdo antes, pero no lo cumple. Ahora la empresa puede elegir a su propia persona para comprobar la seguridad. Las familias de las personas que mueren están muy tristes y enfadadas. Quieren que los aviones sean seguros y que la empresa diga la verdad.
