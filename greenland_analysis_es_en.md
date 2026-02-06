@@ -20,24 +20,24 @@ However, many questions still remain unanswered. The details of the agreement wi
 
 ## Grammar Highlights
 
-*   **Preterite Tense**: The text heavily uses the Preterite tense (e.g., `celebraron`, `surgió`, `retiró`, `afirmó`, `acogieron`, `mostraron`, `repitió`, `viajó`) to narrate a sequence of completed past actions.
-*   **Imperfect Tense (`parecía`)**: Used for description in the past. "the situation *seemed* calmer" describes the state of things, not a completed action.
-*   **Conditional Tense (`se defenderían`, `podría ayudar`)**: Used to express future possibilities or hypothetical actions from a past perspective. "stated that they *would defend* themselves"; "an agreement *could help*".
-*   **`surgió a raíz de`**: An idiomatic connector meaning "arose as a result of". It links the concern (`La preocupación`) to its cause (Trump's comments).
-*   **`acogieron con satisfacción`**: A common formal phrase. `Acogieron` is the preterite of `acoger` (to welcome/receive). The phrase means "they welcomed".
-*   **`se mostraron en desacuerdo`**: Use of the pronominal verb `mostrarse` (to show oneself, to appear). It means "they showed disagreement" or more simply "they disagreed".
+* **Preterite Tense**: The text heavily uses the Preterite tense (e.g., `celebraron`, `surgió`, `retiró`, `afirmó`, `acogieron`, `mostraron`, `repitió`, `viajó`) to narrate a sequence of completed past actions.
+* **Imperfect Tense (`parecía`)**: Used for description in the past. "the situation *seemed* calmer" describes the state of things, not a completed action.
+* **Conditional Tense (`se defenderían`, `podría ayudar`)**: Used to express future possibilities or hypothetical actions from a past perspective. "stated that they *would defend* themselves"; "an agreement *could help*".
+* **`surgió a raíz de`**: An idiomatic connector meaning "arose as a result of". It links the concern (`La preocupación`) to its cause (Trump's comments).
+* **`acogieron con satisfacción`**: A common formal phrase. `Acogieron` is the preterite of `acoger` (to welcome/receive). The phrase means "they welcomed".
+* **`se mostraron en desacuerdo`**: Use of the pronominal verb `mostrarse` (to show oneself, to appear). It means "they showed disagreement" or more simply "they disagreed".
 
 ## Idioms and Expressions
 
-*   **`celebrar una reunión`**: "to hold a meeting". `Celebrar` here doesn't mean "to celebrate" but "to carry out" or "to hold".
-*   **`aumento de la tensión`**: "increase in tension".
-*   **`surgió a raíz de`**: "arose as a result of" / "stemmed from".
-*   **`tomar el control de`**: "to take control of".
-*   **`acoger con satisfacción`**: "(to) welcome" (literally, to receive with satisfaction). A formal way to express approval.
-*   **`enfrentarse a`**: "to face" / "to confront".
-*   **`sin respuesta`**: "unanswered" (literally, without answer).
-*   **`aún quedan`**: "still remain".
-*   **`mantener conversaciones`**: "to hold talks" / "to have discussions".
+* **`celebrar una reunión`**: "to hold a meeting". `Celebrar` here doesn't mean "to celebrate" but "to carry out" or "to hold".
+* **`aumento de la tensión`**: "increase in tension".
+* **`surgió a raíz de`**: "arose as a result of" / "stemmed from".
+* **`tomar el control de`**: "to take control of".
+* **`acoger con satisfacción`**: "(to) welcome" (literally, to receive with satisfaction). A formal way to express approval.
+* **`enfrentarse a`**: "to face" / "to confront".
+* **`sin respuesta`**: "unanswered" (literally, without answer).
+* **`aún quedan`**: "still remain".
+* **`mantener conversaciones`**: "to hold talks" / "to have discussions".
 
 ## Glossary
 
