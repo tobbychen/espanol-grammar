@@ -30,3 +30,20 @@ This skill analyzes Spanish text to determine its grammatical properties.
         4.  Provide a grammatical breakdown of the phrase.
         5.  Provide the English translation of the full phrase.
 3.  **Provide a clear, structured summary** of the analysis to the user.
+
+## Output Format
+
+### Word Analysis
+
+<word>:
+*   **Type**: <noun|verb>
+*   **Gender**: <Masculine|Feminine>
+*   **Number**: <Singular|Plural>
+*   **Translation**: <English translation>
+
+### Phrase Analysis
+
+<phrase>:
+*   **Type**: <phrase type>
+*   **Grammatical Breakdown**: <breakdown>
+*   **Translation**: <English translation>

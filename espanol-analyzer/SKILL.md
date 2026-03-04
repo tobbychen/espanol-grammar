@@ -29,4 +29,4 @@ This skill analyzes Spanish text to determine its grammatical properties.
         3.  Identify any subclauses.
         4.  Provide a grammatical breakdown of the phrase.
         5.  Provide the English translation of the full phrase.
-3.  **Provide a clear, structured summary** of the analysis to the user.
+3.  **Provide a clear, structured summary in English** of the analysis to the user.
